@@ -14,6 +14,7 @@ using Scheduler.HRRN;
 using Scheduler.RR;
 using Scheduler.PRIORITY;
 using Scheduler.FCFS;
+using Scheduler.SJF;
 
 namespace Scheduler
 {
@@ -21,6 +22,7 @@ namespace Scheduler
     {
         Scheduler_CFS scheduler_cfs;
         Scheduler_SRT scheduler_srt;
+        Scheduler_SJF scheduler_sjf;
         Scheduler_HRRN scheduler_hrrn;
         Scheduler_RR scheduler_rr;
         Scheduler_PRIORITY scheduler_priority;
@@ -34,6 +36,7 @@ namespace Scheduler
 
             scheduler_cfs = new Scheduler_CFS(cfs_task_info_grid, cfs_rb_tree_grid, cfs_txt_output, flow, cfs_nmbr_period, (int)cfs_nmbr_period.Value);
             scheduler_srt = new Scheduler_SRT(srt_task_info_grid, srt_ready_queue_grid, flow, srt_txt_output);
+            scheduler_sjf = new Scheduler_SJF(sjf_task_info_grid, sjf_ready_queue_grid, flow, sjf_txt_output);
             scheduler_hrrn = new Scheduler_HRRN(hrrn_task_info_grid, hrrn_ready_queue_grid, flow, hrrn_txt_output);
             scheduler_rr = new Scheduler_RR(rr_task_info_grid, rr_ready_queue_grid, flow, rr_txt_output);
             scheduler_priority = new Scheduler_PRIORITY(priority_task_info_grid, priority_ready_queue_grid, flow, priority_txt_output);
@@ -259,6 +262,33 @@ namespace Scheduler
             fcfs_txt_output.SelectionStart = fcfs_txt_output.Text.Length;
             // scroll it automatically
             fcfs_txt_output.ScrollToCaret();
+        }
+
+        /****************************************************************************************************************/
+        private void sjf_btn_add_task_Click(object sender, EventArgs e)
+        {
+            Task task = new Task((int)srt_nmbr_burst_time.Value, (int)srt_nmbr_arr_time.Value);
+            scheduler_sjf.add_task(task);
+        }
+
+        private void sjf_btn_add_task_random_Click(object sender, EventArgs e)
+        {
+            Task task = new Task(random.Next(1, 10), random.Next(0, 10));
+            scheduler_sjf.add_task(task);
+        }
+
+        private void sjf_btn_run_Click(object sender, EventArgs e)
+        {
+            flow.Controls.Clear();
+
+            scheduler_sjf.start();
+        }
+
+        private void sjf_txt_output_TextChanged(object sender, EventArgs e)
+        {
+            sjf_txt_output.SelectionStart = sjf_txt_output.Text.Length;
+            // scroll it automatically
+            sjf_txt_output.ScrollToCaret();
         }
     }
 }

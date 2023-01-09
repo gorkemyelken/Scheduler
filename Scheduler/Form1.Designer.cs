@@ -29,37 +29,40 @@ namespace Scheduler
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle5 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle6 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle7 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle8 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle9 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle10 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle11 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle12 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle13 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle14 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle15 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle16 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle17 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle18 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle19 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle20 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle21 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle22 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle23 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle24 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle29 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle30 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle31 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle32 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle33 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle34 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle35 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle36 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle37 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle38 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle39 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle40 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle41 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle42 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle43 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle44 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle45 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle46 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle47 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle48 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle49 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle50 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle51 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle52 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle53 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle54 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle55 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle56 = new System.Windows.Forms.DataGridViewCellStyle();
             this.flow = new System.Windows.Forms.FlowLayoutPanel();
             this.tabSRT = new System.Windows.Forms.TabPage();
             this.panel2 = new System.Windows.Forms.Panel();
             this.srt_txt_output = new System.Windows.Forms.RichTextBox();
             this.srt_task_info_grid = new System.Windows.Forms.DataGridView();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
-            this.srt_checkbox_preemptive = new System.Windows.Forms.CheckBox();
             this.srt_btn_run = new System.Windows.Forms.Button();
             this.srt_btn_add_task_random = new System.Windows.Forms.Button();
             this.srt_btn_add_task = new System.Windows.Forms.Button();
@@ -67,6 +70,8 @@ namespace Scheduler
             this.srt_nmbr_burst_time = new System.Windows.Forms.NumericUpDown();
             this.label7 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
+            this.srt_ready_queue_grid = new System.Windows.Forms.DataGridView();
+            this.srt_checkbox_preemptive = new System.Windows.Forms.CheckBox();
             this.tabCFS = new System.Windows.Forms.TabPage();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.cfs_nmbr_current_period = new System.Windows.Forms.NumericUpDown();
@@ -88,6 +93,18 @@ namespace Scheduler
             this.label1 = new System.Windows.Forms.Label();
             this.cfs_rb_tree_grid = new System.Windows.Forms.DataGridView();
             this.tabCONTROL = new System.Windows.Forms.TabControl();
+            this.tabSJF = new System.Windows.Forms.TabPage();
+            this.panel7 = new System.Windows.Forms.Panel();
+            this.sjf_txt_output = new System.Windows.Forms.RichTextBox();
+            this.sjf_task_info_grid = new System.Windows.Forms.DataGridView();
+            this.groupBox8 = new System.Windows.Forms.GroupBox();
+            this.sjf_btn_run = new System.Windows.Forms.Button();
+            this.sjf_btn_add_task_random = new System.Windows.Forms.Button();
+            this.sjf_btn_add_task = new System.Windows.Forms.Button();
+            this.sjf_nmbr_arr_time = new System.Windows.Forms.NumericUpDown();
+            this.sjf_nmbr_burst_time = new System.Windows.Forms.NumericUpDown();
+            this.label18 = new System.Windows.Forms.Label();
+            this.label19 = new System.Windows.Forms.Label();
             this.tabHRRN = new System.Windows.Forms.TabPage();
             this.panel3 = new System.Windows.Forms.Panel();
             this.hrrn_txt_output = new System.Windows.Forms.RichTextBox();
@@ -145,13 +162,15 @@ namespace Scheduler
             this.priority_ready_queue_grid = new System.Windows.Forms.DataGridView();
             this.fcfs_ready_queue_grid = new System.Windows.Forms.DataGridView();
             this.hrrn_ready_queue_grid = new System.Windows.Forms.DataGridView();
-            this.srt_ready_queue_grid = new System.Windows.Forms.DataGridView();
+            this.sjf_checkbox_preemptive = new System.Windows.Forms.CheckBox();
+            this.sjf_ready_queue_grid = new System.Windows.Forms.DataGridView();
             this.tabSRT.SuspendLayout();
             this.panel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.srt_task_info_grid)).BeginInit();
             this.groupBox3.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.srt_nmbr_arr_time)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.srt_nmbr_burst_time)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.srt_ready_queue_grid)).BeginInit();
             this.tabCFS.SuspendLayout();
             this.groupBox2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.cfs_nmbr_current_period)).BeginInit();
@@ -164,6 +183,12 @@ namespace Scheduler
             ((System.ComponentModel.ISupportInitialize)(this.cfs_nmbr_burst_time)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.cfs_rb_tree_grid)).BeginInit();
             this.tabCONTROL.SuspendLayout();
+            this.tabSJF.SuspendLayout();
+            this.panel7.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.sjf_task_info_grid)).BeginInit();
+            this.groupBox8.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.sjf_nmbr_arr_time)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.sjf_nmbr_burst_time)).BeginInit();
             this.tabHRRN.SuspendLayout();
             this.panel3.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.hrrn_task_info_grid)).BeginInit();
@@ -194,7 +219,7 @@ namespace Scheduler
             ((System.ComponentModel.ISupportInitialize)(this.priority_ready_queue_grid)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.fcfs_ready_queue_grid)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.hrrn_ready_queue_grid)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.srt_ready_queue_grid)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.sjf_ready_queue_grid)).BeginInit();
             this.SuspendLayout();
             // 
             // flow
@@ -220,7 +245,7 @@ namespace Scheduler
             this.tabSRT.Name = "tabSRT";
             this.tabSRT.Size = new System.Drawing.Size(1589, 566);
             this.tabSRT.TabIndex = 1;
-            this.tabSRT.Text = "SRT";
+            this.tabSRT.Text = "SRTF";
             this.tabSRT.UseVisualStyleBackColor = true;
             // 
             // panel2
@@ -252,26 +277,25 @@ namespace Scheduler
             | System.Windows.Forms.AnchorStyles.Right)));
             this.srt_task_info_grid.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.srt_task_info_grid.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.AllCells;
-            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            dataGridViewCellStyle1.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.srt_task_info_grid.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle1;
+            dataGridViewCellStyle29.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle29.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle29.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
+            dataGridViewCellStyle29.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle29.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle29.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle29.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.srt_task_info_grid.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle29;
             this.srt_task_info_grid.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.srt_task_info_grid.Location = new System.Drawing.Point(464, 10);
             this.srt_task_info_grid.Margin = new System.Windows.Forms.Padding(10, 10, 20, 10);
             this.srt_task_info_grid.Name = "srt_task_info_grid";
-            dataGridViewCellStyle2.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.srt_task_info_grid.RowsDefaultCellStyle = dataGridViewCellStyle2;
+            dataGridViewCellStyle30.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.srt_task_info_grid.RowsDefaultCellStyle = dataGridViewCellStyle30;
             this.srt_task_info_grid.Size = new System.Drawing.Size(1105, 538);
             this.srt_task_info_grid.TabIndex = 2;
             // 
             // groupBox3
             // 
-            this.groupBox3.Controls.Add(this.srt_checkbox_preemptive);
             this.groupBox3.Controls.Add(this.srt_btn_run);
             this.groupBox3.Controls.Add(this.srt_btn_add_task_random);
             this.groupBox3.Controls.Add(this.srt_btn_add_task);
@@ -286,19 +310,6 @@ namespace Scheduler
             this.groupBox3.TabIndex = 1;
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = "Tasks";
-            // 
-            // srt_checkbox_preemptive
-            // 
-            this.srt_checkbox_preemptive.AutoSize = true;
-            this.srt_checkbox_preemptive.Checked = true;
-            this.srt_checkbox_preemptive.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.srt_checkbox_preemptive.Location = new System.Drawing.Point(59, 125);
-            this.srt_checkbox_preemptive.Name = "srt_checkbox_preemptive";
-            this.srt_checkbox_preemptive.Size = new System.Drawing.Size(115, 17);
-            this.srt_checkbox_preemptive.TabIndex = 10;
-            this.srt_checkbox_preemptive.Text = "Enable Preemptive";
-            this.srt_checkbox_preemptive.UseVisualStyleBackColor = true;
-            this.srt_checkbox_preemptive.CheckedChanged += new System.EventHandler(this.srt_checkbox_preemptive_CheckedChanged);
             // 
             // srt_btn_run
             // 
@@ -378,6 +389,42 @@ namespace Scheduler
             this.label8.Size = new System.Drawing.Size(60, 13);
             this.label8.TabIndex = 2;
             this.label8.Text = "Burst Time:";
+            // 
+            // srt_ready_queue_grid
+            // 
+            this.srt_ready_queue_grid.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.srt_ready_queue_grid.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
+            this.srt_ready_queue_grid.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.AllCells;
+            dataGridViewCellStyle31.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle31.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle31.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
+            dataGridViewCellStyle31.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle31.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle31.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle31.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.srt_ready_queue_grid.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle31;
+            this.srt_ready_queue_grid.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.srt_ready_queue_grid.Location = new System.Drawing.Point(457, 217);
+            this.srt_ready_queue_grid.Margin = new System.Windows.Forms.Padding(10, 10, 20, 10);
+            this.srt_ready_queue_grid.Name = "srt_ready_queue_grid";
+            dataGridViewCellStyle32.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.srt_ready_queue_grid.RowsDefaultCellStyle = dataGridViewCellStyle32;
+            this.srt_ready_queue_grid.Size = new System.Drawing.Size(1176, 331);
+            this.srt_ready_queue_grid.TabIndex = 5;
+            // 
+            // srt_checkbox_preemptive
+            // 
+            this.srt_checkbox_preemptive.AutoSize = true;
+            this.srt_checkbox_preemptive.Checked = true;
+            this.srt_checkbox_preemptive.CheckState = System.Windows.Forms.CheckState.Checked;
+            this.srt_checkbox_preemptive.Location = new System.Drawing.Point(59, 125);
+            this.srt_checkbox_preemptive.Name = "srt_checkbox_preemptive";
+            this.srt_checkbox_preemptive.Size = new System.Drawing.Size(115, 17);
+            this.srt_checkbox_preemptive.TabIndex = 10;
+            this.srt_checkbox_preemptive.Text = "Enable Preemptive";
+            this.srt_checkbox_preemptive.UseVisualStyleBackColor = true;
+            this.srt_checkbox_preemptive.CheckedChanged += new System.EventHandler(this.srt_checkbox_preemptive_CheckedChanged);
             // 
             // tabCFS
             // 
@@ -517,20 +564,20 @@ namespace Scheduler
             | System.Windows.Forms.AnchorStyles.Right)));
             this.cfs_task_info_grid.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.cfs_task_info_grid.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.AllCells;
-            dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle3.BackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            dataGridViewCellStyle3.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle3.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle3.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.cfs_task_info_grid.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle3;
+            dataGridViewCellStyle33.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle33.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle33.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
+            dataGridViewCellStyle33.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle33.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle33.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle33.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.cfs_task_info_grid.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle33;
             this.cfs_task_info_grid.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.cfs_task_info_grid.Location = new System.Drawing.Point(467, 13);
             this.cfs_task_info_grid.Margin = new System.Windows.Forms.Padding(10, 10, 20, 10);
             this.cfs_task_info_grid.Name = "cfs_task_info_grid";
-            dataGridViewCellStyle4.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.cfs_task_info_grid.RowsDefaultCellStyle = dataGridViewCellStyle4;
+            dataGridViewCellStyle34.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.cfs_task_info_grid.RowsDefaultCellStyle = dataGridViewCellStyle34;
             this.cfs_task_info_grid.Size = new System.Drawing.Size(1102, 525);
             this.cfs_task_info_grid.TabIndex = 1;
             // 
@@ -644,20 +691,20 @@ namespace Scheduler
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.cfs_rb_tree_grid.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.DisplayedCells;
-            dataGridViewCellStyle5.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle5.BackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle5.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            dataGridViewCellStyle5.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle5.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle5.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle5.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.cfs_rb_tree_grid.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle5;
+            dataGridViewCellStyle35.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle35.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle35.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
+            dataGridViewCellStyle35.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle35.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle35.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle35.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.cfs_rb_tree_grid.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle35;
             this.cfs_rb_tree_grid.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.cfs_rb_tree_grid.Location = new System.Drawing.Point(467, 227);
             this.cfs_rb_tree_grid.Margin = new System.Windows.Forms.Padding(10, 10, 20, 10);
             this.cfs_rb_tree_grid.Name = "cfs_rb_tree_grid";
-            dataGridViewCellStyle6.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.cfs_rb_tree_grid.RowsDefaultCellStyle = dataGridViewCellStyle6;
+            dataGridViewCellStyle36.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.cfs_rb_tree_grid.RowsDefaultCellStyle = dataGridViewCellStyle36;
             this.cfs_rb_tree_grid.Size = new System.Drawing.Size(1166, 311);
             this.cfs_rb_tree_grid.TabIndex = 4;
             // 
@@ -665,18 +712,174 @@ namespace Scheduler
             // 
             this.tabCONTROL.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.tabCONTROL.Controls.Add(this.tabCFS);
+            this.tabCONTROL.Controls.Add(this.tabFCFS);
+            this.tabCONTROL.Controls.Add(this.tabSJF);
             this.tabCONTROL.Controls.Add(this.tabSRT);
+            this.tabCONTROL.Controls.Add(this.tabPRIORITY);
             this.tabCONTROL.Controls.Add(this.tabHRRN);
             this.tabCONTROL.Controls.Add(this.tabRR);
-            this.tabCONTROL.Controls.Add(this.tabPRIORITY);
-            this.tabCONTROL.Controls.Add(this.tabFCFS);
+            this.tabCONTROL.Controls.Add(this.tabCFS);
             this.tabCONTROL.Location = new System.Drawing.Point(19, 19);
             this.tabCONTROL.Margin = new System.Windows.Forms.Padding(10);
             this.tabCONTROL.Name = "tabCONTROL";
             this.tabCONTROL.SelectedIndex = 0;
             this.tabCONTROL.Size = new System.Drawing.Size(1597, 592);
             this.tabCONTROL.TabIndex = 0;
+            // 
+            // tabSJF
+            // 
+            this.tabSJF.Controls.Add(this.panel7);
+            this.tabSJF.Controls.Add(this.sjf_task_info_grid);
+            this.tabSJF.Controls.Add(this.groupBox8);
+            this.tabSJF.Location = new System.Drawing.Point(4, 22);
+            this.tabSJF.Name = "tabSJF";
+            this.tabSJF.Padding = new System.Windows.Forms.Padding(3);
+            this.tabSJF.Size = new System.Drawing.Size(1589, 566);
+            this.tabSJF.TabIndex = 6;
+            this.tabSJF.Text = "SJF";
+            this.tabSJF.UseVisualStyleBackColor = true;
+            // 
+            // panel7
+            // 
+            this.panel7.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left)));
+            this.panel7.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panel7.Controls.Add(this.sjf_txt_output);
+            this.panel7.Location = new System.Drawing.Point(13, 220);
+            this.panel7.Name = "panel7";
+            this.panel7.Size = new System.Drawing.Size(434, 331);
+            this.panel7.TabIndex = 5;
+            // 
+            // sjf_txt_output
+            // 
+            this.sjf_txt_output.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left)));
+            this.sjf_txt_output.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.sjf_txt_output.Location = new System.Drawing.Point(15, 13);
+            this.sjf_txt_output.Name = "sjf_txt_output";
+            this.sjf_txt_output.Size = new System.Drawing.Size(402, 302);
+            this.sjf_txt_output.TabIndex = 0;
+            this.sjf_txt_output.Text = "";
+            this.sjf_txt_output.TextChanged += new System.EventHandler(this.sjf_txt_output_TextChanged);
+            // 
+            // sjf_task_info_grid
+            // 
+            this.sjf_task_info_grid.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.sjf_task_info_grid.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
+            this.sjf_task_info_grid.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.AllCells;
+            dataGridViewCellStyle37.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle37.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle37.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
+            dataGridViewCellStyle37.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle37.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle37.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle37.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.sjf_task_info_grid.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle37;
+            this.sjf_task_info_grid.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.sjf_task_info_grid.Location = new System.Drawing.Point(467, 13);
+            this.sjf_task_info_grid.Margin = new System.Windows.Forms.Padding(10, 10, 20, 10);
+            this.sjf_task_info_grid.Name = "sjf_task_info_grid";
+            dataGridViewCellStyle38.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.sjf_task_info_grid.RowsDefaultCellStyle = dataGridViewCellStyle38;
+            this.sjf_task_info_grid.Size = new System.Drawing.Size(1105, 538);
+            this.sjf_task_info_grid.TabIndex = 3;
+            // 
+            // groupBox8
+            // 
+            this.groupBox8.Controls.Add(this.sjf_btn_run);
+            this.groupBox8.Controls.Add(this.sjf_btn_add_task_random);
+            this.groupBox8.Controls.Add(this.sjf_btn_add_task);
+            this.groupBox8.Controls.Add(this.sjf_nmbr_arr_time);
+            this.groupBox8.Controls.Add(this.sjf_nmbr_burst_time);
+            this.groupBox8.Controls.Add(this.label18);
+            this.groupBox8.Controls.Add(this.label19);
+            this.groupBox8.Location = new System.Drawing.Point(13, 13);
+            this.groupBox8.Margin = new System.Windows.Forms.Padding(10);
+            this.groupBox8.Name = "groupBox8";
+            this.groupBox8.Size = new System.Drawing.Size(434, 194);
+            this.groupBox8.TabIndex = 2;
+            this.groupBox8.TabStop = false;
+            this.groupBox8.Text = "Tasks";
+            // 
+            // sjf_btn_run
+            // 
+            this.sjf_btn_run.Location = new System.Drawing.Point(295, 89);
+            this.sjf_btn_run.Margin = new System.Windows.Forms.Padding(10);
+            this.sjf_btn_run.Name = "sjf_btn_run";
+            this.sjf_btn_run.Size = new System.Drawing.Size(76, 23);
+            this.sjf_btn_run.TabIndex = 9;
+            this.sjf_btn_run.Text = "Run";
+            this.sjf_btn_run.UseVisualStyleBackColor = true;
+            this.sjf_btn_run.Click += new System.EventHandler(this.sjf_btn_run_Click);
+            // 
+            // sjf_btn_add_task_random
+            // 
+            this.sjf_btn_add_task_random.Location = new System.Drawing.Point(246, 49);
+            this.sjf_btn_add_task_random.Margin = new System.Windows.Forms.Padding(10);
+            this.sjf_btn_add_task_random.Name = "sjf_btn_add_task_random";
+            this.sjf_btn_add_task_random.Size = new System.Drawing.Size(172, 23);
+            this.sjf_btn_add_task_random.TabIndex = 8;
+            this.sjf_btn_add_task_random.Text = "Add Random Task";
+            this.sjf_btn_add_task_random.UseVisualStyleBackColor = true;
+            this.sjf_btn_add_task_random.Click += new System.EventHandler(this.sjf_btn_add_task_random_Click);
+            // 
+            // sjf_btn_add_task
+            // 
+            this.sjf_btn_add_task.Location = new System.Drawing.Point(112, 89);
+            this.sjf_btn_add_task.Margin = new System.Windows.Forms.Padding(10);
+            this.sjf_btn_add_task.Name = "sjf_btn_add_task";
+            this.sjf_btn_add_task.Size = new System.Drawing.Size(76, 23);
+            this.sjf_btn_add_task.TabIndex = 0;
+            this.sjf_btn_add_task.Text = "Add Task";
+            this.sjf_btn_add_task.UseVisualStyleBackColor = true;
+            this.sjf_btn_add_task.Click += new System.EventHandler(this.sjf_btn_add_task_Click);
+            // 
+            // sjf_nmbr_arr_time
+            // 
+            this.sjf_nmbr_arr_time.Location = new System.Drawing.Point(112, 49);
+            this.sjf_nmbr_arr_time.Margin = new System.Windows.Forms.Padding(10);
+            this.sjf_nmbr_arr_time.Name = "sjf_nmbr_arr_time";
+            this.sjf_nmbr_arr_time.Size = new System.Drawing.Size(76, 20);
+            this.sjf_nmbr_arr_time.TabIndex = 5;
+            // 
+            // sjf_nmbr_burst_time
+            // 
+            this.sjf_nmbr_burst_time.Location = new System.Drawing.Point(16, 49);
+            this.sjf_nmbr_burst_time.Margin = new System.Windows.Forms.Padding(10);
+            this.sjf_nmbr_burst_time.Minimum = new decimal(new int[] {
+            1,
+            0,
+            0,
+            0});
+            this.sjf_nmbr_burst_time.Name = "sjf_nmbr_burst_time";
+            this.sjf_nmbr_burst_time.Size = new System.Drawing.Size(76, 20);
+            this.sjf_nmbr_burst_time.TabIndex = 4;
+            this.sjf_nmbr_burst_time.Value = new decimal(new int[] {
+            1,
+            0,
+            0,
+            0});
+            // 
+            // label18
+            // 
+            this.label18.AutoSize = true;
+            this.label18.Location = new System.Drawing.Point(109, 26);
+            this.label18.Margin = new System.Windows.Forms.Padding(10, 10, 10, 0);
+            this.label18.Name = "label18";
+            this.label18.Size = new System.Drawing.Size(65, 13);
+            this.label18.TabIndex = 3;
+            this.label18.Text = "Arrival Time:";
+            // 
+            // label19
+            // 
+            this.label19.AutoSize = true;
+            this.label19.Location = new System.Drawing.Point(13, 26);
+            this.label19.Margin = new System.Windows.Forms.Padding(10, 10, 10, 0);
+            this.label19.Name = "label19";
+            this.label19.Size = new System.Drawing.Size(60, 13);
+            this.label19.TabIndex = 2;
+            this.label19.Text = "Burst Time:";
             // 
             // tabHRRN
             // 
@@ -719,20 +922,20 @@ namespace Scheduler
             | System.Windows.Forms.AnchorStyles.Right)));
             this.hrrn_task_info_grid.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.hrrn_task_info_grid.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.AllCells;
-            dataGridViewCellStyle7.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle7.BackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle7.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            dataGridViewCellStyle7.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle7.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle7.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle7.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.hrrn_task_info_grid.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle7;
+            dataGridViewCellStyle39.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle39.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle39.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
+            dataGridViewCellStyle39.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle39.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle39.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle39.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.hrrn_task_info_grid.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle39;
             this.hrrn_task_info_grid.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.hrrn_task_info_grid.Location = new System.Drawing.Point(466, 10);
             this.hrrn_task_info_grid.Margin = new System.Windows.Forms.Padding(10, 10, 20, 10);
             this.hrrn_task_info_grid.Name = "hrrn_task_info_grid";
-            dataGridViewCellStyle8.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.hrrn_task_info_grid.RowsDefaultCellStyle = dataGridViewCellStyle8;
+            dataGridViewCellStyle40.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.hrrn_task_info_grid.RowsDefaultCellStyle = dataGridViewCellStyle40;
             this.hrrn_task_info_grid.Size = new System.Drawing.Size(1103, 538);
             this.hrrn_task_info_grid.TabIndex = 3;
             // 
@@ -887,20 +1090,20 @@ namespace Scheduler
             | System.Windows.Forms.AnchorStyles.Right)));
             this.rr_task_info_grid.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.rr_task_info_grid.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.AllCells;
-            dataGridViewCellStyle9.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle9.BackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle9.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            dataGridViewCellStyle9.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle9.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle9.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle9.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.rr_task_info_grid.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle9;
+            dataGridViewCellStyle41.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle41.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle41.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
+            dataGridViewCellStyle41.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle41.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle41.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle41.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.rr_task_info_grid.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle41;
             this.rr_task_info_grid.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.rr_task_info_grid.Location = new System.Drawing.Point(457, 10);
             this.rr_task_info_grid.Margin = new System.Windows.Forms.Padding(10, 10, 20, 10);
             this.rr_task_info_grid.Name = "rr_task_info_grid";
-            dataGridViewCellStyle10.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.rr_task_info_grid.RowsDefaultCellStyle = dataGridViewCellStyle10;
+            dataGridViewCellStyle42.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.rr_task_info_grid.RowsDefaultCellStyle = dataGridViewCellStyle42;
             this.rr_task_info_grid.Size = new System.Drawing.Size(1102, 537);
             this.rr_task_info_grid.TabIndex = 10;
             // 
@@ -1078,20 +1281,20 @@ namespace Scheduler
             | System.Windows.Forms.AnchorStyles.Right)));
             this.priority_task_info_grid.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.priority_task_info_grid.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.AllCells;
-            dataGridViewCellStyle11.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle11.BackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle11.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            dataGridViewCellStyle11.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle11.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle11.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle11.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.priority_task_info_grid.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle11;
+            dataGridViewCellStyle43.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle43.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle43.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
+            dataGridViewCellStyle43.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle43.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle43.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle43.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.priority_task_info_grid.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle43;
             this.priority_task_info_grid.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.priority_task_info_grid.Location = new System.Drawing.Point(464, 13);
             this.priority_task_info_grid.Margin = new System.Windows.Forms.Padding(10, 10, 20, 10);
             this.priority_task_info_grid.Name = "priority_task_info_grid";
-            dataGridViewCellStyle12.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.priority_task_info_grid.RowsDefaultCellStyle = dataGridViewCellStyle12;
+            dataGridViewCellStyle44.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.priority_task_info_grid.RowsDefaultCellStyle = dataGridViewCellStyle44;
             this.priority_task_info_grid.Size = new System.Drawing.Size(1105, 533);
             this.priority_task_info_grid.TabIndex = 10;
             // 
@@ -1230,20 +1433,20 @@ namespace Scheduler
             | System.Windows.Forms.AnchorStyles.Right)));
             this.fcfs_task_info_grid.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.fcfs_task_info_grid.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.AllCells;
-            dataGridViewCellStyle13.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle13.BackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle13.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            dataGridViewCellStyle13.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle13.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle13.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle13.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.fcfs_task_info_grid.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle13;
+            dataGridViewCellStyle45.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle45.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle45.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
+            dataGridViewCellStyle45.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle45.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle45.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle45.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.fcfs_task_info_grid.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle45;
             this.fcfs_task_info_grid.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.fcfs_task_info_grid.Location = new System.Drawing.Point(460, 13);
             this.fcfs_task_info_grid.Margin = new System.Windows.Forms.Padding(10, 10, 20, 10);
             this.fcfs_task_info_grid.Name = "fcfs_task_info_grid";
-            dataGridViewCellStyle14.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.fcfs_task_info_grid.RowsDefaultCellStyle = dataGridViewCellStyle14;
+            dataGridViewCellStyle46.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.fcfs_task_info_grid.RowsDefaultCellStyle = dataGridViewCellStyle46;
             this.fcfs_task_info_grid.Size = new System.Drawing.Size(1112, 538);
             this.fcfs_task_info_grid.TabIndex = 6;
             // 
@@ -1372,20 +1575,20 @@ namespace Scheduler
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.rr_ready_queue_grid.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.DisplayedCells;
-            dataGridViewCellStyle15.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle15.BackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle15.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            dataGridViewCellStyle15.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle15.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle15.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle15.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.rr_ready_queue_grid.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle15;
+            dataGridViewCellStyle47.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle47.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle47.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
+            dataGridViewCellStyle47.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle47.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle47.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle47.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.rr_ready_queue_grid.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle47;
             this.rr_ready_queue_grid.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.rr_ready_queue_grid.Location = new System.Drawing.Point(470, 235);
             this.rr_ready_queue_grid.Margin = new System.Windows.Forms.Padding(10, 10, 20, 10);
             this.rr_ready_queue_grid.Name = "rr_ready_queue_grid";
-            dataGridViewCellStyle16.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.rr_ready_queue_grid.RowsDefaultCellStyle = dataGridViewCellStyle16;
+            dataGridViewCellStyle48.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.rr_ready_queue_grid.RowsDefaultCellStyle = dataGridViewCellStyle48;
             this.rr_ready_queue_grid.Size = new System.Drawing.Size(1166, 311);
             this.rr_ready_queue_grid.TabIndex = 12;
             // 
@@ -1395,20 +1598,20 @@ namespace Scheduler
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.priority_ready_queue_grid.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.DisplayedCells;
-            dataGridViewCellStyle17.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle17.BackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle17.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            dataGridViewCellStyle17.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle17.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle17.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle17.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.priority_ready_queue_grid.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle17;
+            dataGridViewCellStyle49.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle49.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle49.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
+            dataGridViewCellStyle49.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle49.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle49.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle49.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.priority_ready_queue_grid.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle49;
             this.priority_ready_queue_grid.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.priority_ready_queue_grid.Location = new System.Drawing.Point(464, 220);
             this.priority_ready_queue_grid.Margin = new System.Windows.Forms.Padding(10, 10, 20, 10);
             this.priority_ready_queue_grid.Name = "priority_ready_queue_grid";
-            dataGridViewCellStyle18.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.priority_ready_queue_grid.RowsDefaultCellStyle = dataGridViewCellStyle18;
+            dataGridViewCellStyle50.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.priority_ready_queue_grid.RowsDefaultCellStyle = dataGridViewCellStyle50;
             this.priority_ready_queue_grid.Size = new System.Drawing.Size(1166, 311);
             this.priority_ready_queue_grid.TabIndex = 12;
             // 
@@ -1418,20 +1621,20 @@ namespace Scheduler
             | System.Windows.Forms.AnchorStyles.Right)));
             this.fcfs_ready_queue_grid.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.fcfs_ready_queue_grid.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.AllCells;
-            dataGridViewCellStyle19.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle19.BackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle19.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            dataGridViewCellStyle19.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle19.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle19.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle19.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.fcfs_ready_queue_grid.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle19;
+            dataGridViewCellStyle51.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle51.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle51.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
+            dataGridViewCellStyle51.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle51.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle51.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle51.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.fcfs_ready_queue_grid.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle51;
             this.fcfs_ready_queue_grid.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.fcfs_ready_queue_grid.Location = new System.Drawing.Point(460, 220);
             this.fcfs_ready_queue_grid.Margin = new System.Windows.Forms.Padding(10, 10, 20, 10);
             this.fcfs_ready_queue_grid.Name = "fcfs_ready_queue_grid";
-            dataGridViewCellStyle20.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.fcfs_ready_queue_grid.RowsDefaultCellStyle = dataGridViewCellStyle20;
+            dataGridViewCellStyle52.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.fcfs_ready_queue_grid.RowsDefaultCellStyle = dataGridViewCellStyle52;
             this.fcfs_ready_queue_grid.Size = new System.Drawing.Size(1176, 331);
             this.fcfs_ready_queue_grid.TabIndex = 7;
             // 
@@ -1441,45 +1644,57 @@ namespace Scheduler
             | System.Windows.Forms.AnchorStyles.Right)));
             this.hrrn_ready_queue_grid.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.hrrn_ready_queue_grid.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.AllCells;
-            dataGridViewCellStyle21.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle21.BackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle21.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            dataGridViewCellStyle21.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle21.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle21.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle21.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.hrrn_ready_queue_grid.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle21;
+            dataGridViewCellStyle53.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle53.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle53.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
+            dataGridViewCellStyle53.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle53.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle53.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle53.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.hrrn_ready_queue_grid.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle53;
             this.hrrn_ready_queue_grid.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.hrrn_ready_queue_grid.Location = new System.Drawing.Point(457, 217);
             this.hrrn_ready_queue_grid.Margin = new System.Windows.Forms.Padding(10, 10, 20, 10);
             this.hrrn_ready_queue_grid.Name = "hrrn_ready_queue_grid";
-            dataGridViewCellStyle22.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.hrrn_ready_queue_grid.RowsDefaultCellStyle = dataGridViewCellStyle22;
+            dataGridViewCellStyle54.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.hrrn_ready_queue_grid.RowsDefaultCellStyle = dataGridViewCellStyle54;
             this.hrrn_ready_queue_grid.Size = new System.Drawing.Size(1176, 331);
             this.hrrn_ready_queue_grid.TabIndex = 6;
             // 
-            // srt_ready_queue_grid
+            // sjf_checkbox_preemptive
             // 
-            this.srt_ready_queue_grid.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            this.sjf_checkbox_preemptive.AutoSize = true;
+            this.sjf_checkbox_preemptive.Checked = true;
+            this.sjf_checkbox_preemptive.CheckState = System.Windows.Forms.CheckState.Checked;
+            this.sjf_checkbox_preemptive.Location = new System.Drawing.Point(59, 125);
+            this.sjf_checkbox_preemptive.Name = "sjf_checkbox_preemptive";
+            this.sjf_checkbox_preemptive.Size = new System.Drawing.Size(115, 17);
+            this.sjf_checkbox_preemptive.TabIndex = 10;
+            this.sjf_checkbox_preemptive.Text = "Enable Preemptive";
+            this.sjf_checkbox_preemptive.UseVisualStyleBackColor = true;
+            // 
+            // sjf_ready_queue_grid
+            // 
+            this.sjf_ready_queue_grid.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.srt_ready_queue_grid.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
-            this.srt_ready_queue_grid.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.AllCells;
-            dataGridViewCellStyle23.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle23.BackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle23.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            dataGridViewCellStyle23.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle23.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle23.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle23.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.srt_ready_queue_grid.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle23;
-            this.srt_ready_queue_grid.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.srt_ready_queue_grid.Location = new System.Drawing.Point(457, 217);
-            this.srt_ready_queue_grid.Margin = new System.Windows.Forms.Padding(10, 10, 20, 10);
-            this.srt_ready_queue_grid.Name = "srt_ready_queue_grid";
-            dataGridViewCellStyle24.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.srt_ready_queue_grid.RowsDefaultCellStyle = dataGridViewCellStyle24;
-            this.srt_ready_queue_grid.Size = new System.Drawing.Size(1176, 331);
-            this.srt_ready_queue_grid.TabIndex = 5;
+            this.sjf_ready_queue_grid.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
+            this.sjf_ready_queue_grid.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.AllCells;
+            dataGridViewCellStyle55.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle55.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle55.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
+            dataGridViewCellStyle55.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle55.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle55.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle55.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.sjf_ready_queue_grid.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle55;
+            this.sjf_ready_queue_grid.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.sjf_ready_queue_grid.Location = new System.Drawing.Point(480, 227);
+            this.sjf_ready_queue_grid.Margin = new System.Windows.Forms.Padding(10, 10, 20, 10);
+            this.sjf_ready_queue_grid.Name = "sjf_ready_queue_grid";
+            dataGridViewCellStyle56.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.sjf_ready_queue_grid.RowsDefaultCellStyle = dataGridViewCellStyle56;
+            this.sjf_ready_queue_grid.Size = new System.Drawing.Size(1176, 331);
+            this.sjf_ready_queue_grid.TabIndex = 6;
             // 
             // Form1
             // 
@@ -1497,6 +1712,7 @@ namespace Scheduler
             this.groupBox3.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.srt_nmbr_arr_time)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.srt_nmbr_burst_time)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.srt_ready_queue_grid)).EndInit();
             this.tabCFS.ResumeLayout(false);
             this.groupBox2.ResumeLayout(false);
             this.groupBox2.PerformLayout();
@@ -1511,6 +1727,13 @@ namespace Scheduler
             ((System.ComponentModel.ISupportInitialize)(this.cfs_nmbr_burst_time)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.cfs_rb_tree_grid)).EndInit();
             this.tabCONTROL.ResumeLayout(false);
+            this.tabSJF.ResumeLayout(false);
+            this.panel7.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.sjf_task_info_grid)).EndInit();
+            this.groupBox8.ResumeLayout(false);
+            this.groupBox8.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.sjf_nmbr_arr_time)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.sjf_nmbr_burst_time)).EndInit();
             this.tabHRRN.ResumeLayout(false);
             this.panel3.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.hrrn_task_info_grid)).EndInit();
@@ -1545,7 +1768,7 @@ namespace Scheduler
             ((System.ComponentModel.ISupportInitialize)(this.priority_ready_queue_grid)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.fcfs_ready_queue_grid)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.hrrn_ready_queue_grid)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.srt_ready_queue_grid)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.sjf_ready_queue_grid)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -1644,6 +1867,20 @@ namespace Scheduler
         private System.Windows.Forms.Label label17;
         private System.Windows.Forms.DataGridView srt_ready_queue_grid;
         private System.Windows.Forms.DataGridView cfs_rb_tree_grid;
+        private System.Windows.Forms.TabPage tabSJF;
+        private System.Windows.Forms.Panel panel7;
+        private System.Windows.Forms.RichTextBox sjf_txt_output;
+        private System.Windows.Forms.DataGridView sjf_task_info_grid;
+        private System.Windows.Forms.GroupBox groupBox8;
+        private System.Windows.Forms.CheckBox sjf_checkbox_preemptive;
+        private System.Windows.Forms.Button sjf_btn_run;
+        private System.Windows.Forms.Button sjf_btn_add_task_random;
+        private System.Windows.Forms.Button sjf_btn_add_task;
+        private System.Windows.Forms.NumericUpDown sjf_nmbr_arr_time;
+        private System.Windows.Forms.NumericUpDown sjf_nmbr_burst_time;
+        private System.Windows.Forms.Label label18;
+        private System.Windows.Forms.Label label19;
+        private System.Windows.Forms.DataGridView sjf_ready_queue_grid;
     }
 }
 
