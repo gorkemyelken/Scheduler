@@ -759,7 +759,7 @@ namespace Scheduler
             this.fcfs_task_info_grid.Name = "fcfs_task_info_grid";
             dataGridViewCellStyle10.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.fcfs_task_info_grid.RowsDefaultCellStyle = dataGridViewCellStyle10;
-            this.fcfs_task_info_grid.Size = new System.Drawing.Size(1308, 445);
+            this.fcfs_task_info_grid.Size = new System.Drawing.Size(1109, 445);
             this.fcfs_task_info_grid.TabIndex = 6;
             // 
             // panel6
@@ -1434,7 +1434,7 @@ namespace Scheduler
             this.rr_task_info_grid.Name = "rr_task_info_grid";
             dataGridViewCellStyle18.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.rr_task_info_grid.RowsDefaultCellStyle = dataGridViewCellStyle18;
-            this.rr_task_info_grid.Size = new System.Drawing.Size(1095, 447);
+            this.rr_task_info_grid.Size = new System.Drawing.Size(1105, 447);
             this.rr_task_info_grid.TabIndex = 10;
             // 
             // groupBox6
