@@ -54,10 +54,6 @@ namespace Scheduler.SRT
 
         public override void update()
         {
-          
-            //Info
-            textbox_output.Text += $"--- CPU Time: {total_elapsed_time_seconds} ---\n";
-            textbox_output.Text += (current_task == null) ? ($"No Task Running\n") : ($"Current Task {current_task.Task_name}\n");
 
             // Check for new arrived tasks and insert them to ready queue
             bool new_task_arrived = Check_For_New_Tasks();
@@ -97,8 +93,6 @@ namespace Scheduler.SRT
                     Task task = wait_list[i];
                     task.Wait_time = 0;
 
-                    textbox_output.Text += $"New Task Arrived: {task.Task_name}\n";
-
                     ready_queue.Add(task); //Add task to ready queue
                     wait_list.RemoveAt(i--);
                 }
@@ -119,9 +113,6 @@ namespace Scheduler.SRT
             if (current_task.Execution_time >= current_task.Burst_time * 1000)
                 current_task.Finished = true;
 
-            textbox_output.Text += $"\nUpdating Task {current_task.Task_name}:\n" +
-                    $"--Exec time:{current_task.Execution_time / 1000}\n" +
-                    $"\n";
         }
 
         /****************************************/
@@ -133,7 +124,6 @@ namespace Scheduler.SRT
 
             if (current_task.Finished)
             {
-                textbox_output.Text += $"Task Finished {current_task.Task_name}\n";
 
                 TaskBox<Task> taskBox = new TaskBox<Task>((current_task.Task_name + " Finished") +
                     ("\n Real Runtime:" + current_task.Execution_time / 1000.0) +
@@ -190,8 +180,6 @@ namespace Scheduler.SRT
                 ready_queue.Add(current_task);
             }
 
-            //Info
-            textbox_output.Text += $"New Task Scheduled {next_task.Task_name}\n";
 
             TaskBox<Task> taskBox = new TaskBox<Task>(next_task.Task_name + " Scheduled"
                 + ("\nT=" + Math.Round((total_elapsed_time / 1000.0), 2).ToString())); flow.Controls.Add(taskBox);
@@ -203,8 +191,6 @@ namespace Scheduler.SRT
         /****************************************/
         void Update_Time_Chart()
         {
-            //Info
-            textbox_output.Text += $"----------------------------\n";
 
             datagrid_ready_queue.DataSource = null;
             datagrid_ready_queue.DataSource = ready_queue;

@@ -119,7 +119,6 @@ namespace Scheduler.RR
 
             if (current_task.Finished)
             {
-                textbox_output.Text += $"Task Finished {current_task.Task_name}\n";
 
                 TaskBox<Task> taskBox = new TaskBox<Task>((current_task.Task_name + " Finished") +
                     ("\n Current Quantum:" + current_task_quantum) +
