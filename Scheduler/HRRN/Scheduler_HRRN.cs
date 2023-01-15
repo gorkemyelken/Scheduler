@@ -41,7 +41,7 @@ namespace Scheduler.HRRN
         {
             this.datagrid_ready_queue = datagrid_ready_queue;
 
-            this.preemptive = true;
+            this.preemptive = false;
         }
 
         /****************************************/

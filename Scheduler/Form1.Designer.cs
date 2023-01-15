@@ -1271,7 +1271,6 @@ namespace Scheduler
             // 
             // groupBox4
             // 
-            this.groupBox4.Controls.Add(this.hrrn_checkbox_preemptive);
             this.groupBox4.Controls.Add(this.hrrn_btn_run);
             this.groupBox4.Controls.Add(this.hrrn_btn_add_task_random);
             this.groupBox4.Controls.Add(this.hrrn_btn_add_task);

@@ -267,7 +267,7 @@ namespace Scheduler
         /****************************************************************************************************************/
         private void sjf_btn_add_task_Click(object sender, EventArgs e)
         {
-            Task task = new Task((int)srt_nmbr_burst_time.Value, (int)srt_nmbr_arr_time.Value);
+            Task task = new Task((int)sjf_nmbr_burst_time.Value, (int)sjf_nmbr_arr_time.Value);
             scheduler_sjf.add_task(task);
         }
 
